@@ -1,4 +1,4 @@
-# smart sin fondo
+# Smart sin fondo
 
 Usando el viejo Smart y cambiando unos parametros en el script para no tener background pero si los reflejos, sin tener que bakear desde blender.
 
